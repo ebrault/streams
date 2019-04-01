@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great stream",
+      "id": 1
+    },
+    {
+      "title": "This Change Was Made",
+      "description": "By A Patch Request",
+      "userId": "102459093176815886486",
+      "id": 2
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "You should not see this on the form page",
+      "userId": "102459093176815886486",
+      "id": 3
+    }
+  ]
+}
